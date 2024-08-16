@@ -2,7 +2,7 @@ PROJECT OVERVIEW
 
 In this Power BI portfolio project, I developed a comprehensive sales performance analysis dashboard tailored for an insurance company. This analysis spans a 5-year period, utilizing a custom-created dataset to provide insights into sales performance, with a financial year running from April to March as per Myanmar's fiscal calendar. The report is structured across five distinct pages, each showcasing different aspects of sales performance.
 
-1. Sales Executive KPIs:
+1. SALES EXECUTIVE KPIs:
 
 In this section, I provide a detailed analysis of sales executive performance, focusing on the following key metrics:
 MTD Sales: A detailed comparison of actual sales versus the current month's target, last month and the same period last year (SPLY). Variance and percentage differences are highlighted to clearly display performance against benchmarks.
@@ -11,7 +11,7 @@ Trends: All targets and SPLY are showcased over months, providing a clear view o
 
 This page provides a detailed understanding of how sales executives are performing relative to expectations and historical data.
 
-2. Sales Scorecard:
+2. SALES SCORECARD:
 
 The sales scorecard presents a high-level overview of performance across various dimensions:
 Sales Channels: MTD, YTD, and five-year performance metrics are displayed, offering insights into the effectiveness of various sales channels.
@@ -20,7 +20,7 @@ Divisions: Performance of different divisions is highlighted, showcasing their c
 
 This page is designed to give a snapshot of sales performance across channels, products, and divisions, providing valuable insights for strategic planning.
 
-3. Sales Channel Performance:
+3. SALES CHANNELS PERFORMANCE:
 
 This page utilizes a traffic light system to visually represent the performance of each sales channel:
 
@@ -28,7 +28,7 @@ Traffic Light Highlights: Performance is visually represented using red, yellow,
 
 This intuitive system makes it easy to spot which channels are performing well and which require attention.
 
-4. Product Performance:
+4. PRODUCTS PERFORMANCE:
 
 Detailed analysis of product sales is presented here:
 
@@ -37,7 +37,7 @@ Growth Analysis: Insights into the growth of each product over time.
 
 This page provides a granular view of product performance, helping to pinpoint high-performing and underperforming products.
 
-5. Division Sales PERFORMANCE:
+5. DIVISION SALES PERFORMANCE:
 
 This section focuses on the performance of various sales divisions:
 
